@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWebApiOrnek.DAL", "CoreWebApiOrnek.DAL\CoreWebApiOrnek.DAL.csproj", "{F09FDB3F-ABE6-424C-889B-B30629398B7C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWebApiOrnek.BL", "CoreWebApiOrnek.BL\CoreWebApiOrnek.BL.csproj", "{5030AF09-CDED-470D-A06A-34586DC2E505}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWebApiOrnek.Entities", "CoreWebApiOrnek.Entities\CoreWebApiOrnek.Entities.csproj", "{2CB9696E-288C-4DE3-8E19-8DB216FA707C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWebApiOrnek.DTO", "CoreWebApiOrnek.DTO\CoreWebApiOrnek.DTO.csproj", "{8A29037C-4F09-467A-B798-81EA0CD41C41}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWebApiOrnek.Api", "CoreWebApiOrnek.Api\CoreWebApiOrnek.Api.csproj", "{40573BA5-8C9F-417A-AB12-4BE85F2054B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreWebApiOrnek.Helper", "CoreWebApiOrnek.Helper\CoreWebApiOrnek.Helper.csproj", "{E9F56323-B5CB-4992-AB44-B36851246C5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F09FDB3F-ABE6-424C-889B-B30629398B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09FDB3F-ABE6-424C-889B-B30629398B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09FDB3F-ABE6-424C-889B-B30629398B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09FDB3F-ABE6-424C-889B-B30629398B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5030AF09-CDED-470D-A06A-34586DC2E505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5030AF09-CDED-470D-A06A-34586DC2E505}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5030AF09-CDED-470D-A06A-34586DC2E505}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5030AF09-CDED-470D-A06A-34586DC2E505}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CB9696E-288C-4DE3-8E19-8DB216FA707C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CB9696E-288C-4DE3-8E19-8DB216FA707C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CB9696E-288C-4DE3-8E19-8DB216FA707C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CB9696E-288C-4DE3-8E19-8DB216FA707C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A29037C-4F09-467A-B798-81EA0CD41C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A29037C-4F09-467A-B798-81EA0CD41C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A29037C-4F09-467A-B798-81EA0CD41C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A29037C-4F09-467A-B798-81EA0CD41C41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40573BA5-8C9F-417A-AB12-4BE85F2054B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40573BA5-8C9F-417A-AB12-4BE85F2054B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40573BA5-8C9F-417A-AB12-4BE85F2054B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40573BA5-8C9F-417A-AB12-4BE85F2054B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9F56323-B5CB-4992-AB44-B36851246C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9F56323-B5CB-4992-AB44-B36851246C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9F56323-B5CB-4992-AB44-B36851246C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9F56323-B5CB-4992-AB44-B36851246C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {826E8C25-9F75-4BE8-91A7-1E5F0F7610FD}
+	EndGlobalSection
+EndGlobal
